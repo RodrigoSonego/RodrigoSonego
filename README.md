@@ -14,4 +14,4 @@
 <a href="https://git-scm.com"> <img src="https://skillicons.dev/icons?i=git" alt="Git">
 
 <a href="https://github.com/RodrigoSonego?tab=repositories&type=source">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosonego&theme=tokyonight">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosonego&theme=tokyonight&hide=CSS,Java,Objective-C,Svelte,ShaderLab,GLSL,HLSL&count_private=true">

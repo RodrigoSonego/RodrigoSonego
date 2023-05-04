@@ -1,8 +1,8 @@
 # Rodrigo Sônego
 
 ### 💭 About
-Game developer and enthusiast<br>
-Always looking for improvement and expanding my skills
+- Game developer and enthusiast<br>
+- Always looking for improvement and expanding my skills
 
 
 ### 💡 Tools and Languages Used
